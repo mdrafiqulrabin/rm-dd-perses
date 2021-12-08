@@ -14,3 +14,35 @@ Task: Extracting Label-specific Key Input Features for Neural Code Intelligence 
 
 - Who: In general, software engineering researchers, and in particular, those who use deep neural networks for code intelligence tasks will benefit from this work. This field has witnessed a rapid advance in recent years, and we think more researchers will pay attention to this field in the next few years.
 
+---
+
+# Exercise Guidelines:
+
+- Interesting topics in CS
+- Summarize out-of-domain papers
+- Evaluate own research projects
+- Find related research papers
+- Review a related paper
+- Metrics of related papers
+- Evaluate a technical talk
+- Higher Order Writing Concerns
+- Lower Order Writing Concerns
+- Technical Writing
+
+- - -
+
+# Anatomy of Research Paper:
+
+- Introduction
+- Related Work
+- Methodology
+- Result Analysis
+- Threats to Validity
+- Discussion and Future Plan
+- Conclusion
+
+- - -
+
+# References:
+
+- Coursework: https://www2.cs.uh.edu/~gnawali/courses/cosc6321-f21/index.html
