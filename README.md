@@ -43,6 +43,16 @@ Task: Extracting Label-specific Key Input Features for Neural Code Intelligence 
 
 - - -
 
+# Research Quest:
+
+- Complete Research Paper (https://arxiv.org/abs/2202.06474)
+- Submit Paper to Conference
+- Review Conference Papers
+- Poster Presentation (https://www.slideshare.net/mdrafiqulrabin/rm-dd-perses)
+
+- - -
+
 # References:
 
 - Coursework: https://www2.cs.uh.edu/~gnawali/courses/cosc6321-f21/index.html
+- Conference: https://sites.google.com/view/rq21
